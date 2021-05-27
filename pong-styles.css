@@ -33,6 +33,7 @@ body {
 }
 
 #instructions {
+  color: whitesmoke;
   display: block;
   bottom: 0;
   position: absolute;
